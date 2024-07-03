@@ -1,9 +1,9 @@
 const cardData = [
     {
-        name: "John Doe",
-        title: "Web Developer",
-        description: "Passionate about creating beautiful and functional web applications.",
-        interests: ["React", "TypeScript", "UI/UX", "Open Source"],
+        name: "John Kyalo",
+        title: "Data Nerd ",
+        description: "Anything and everything data.",
+        interests: ["SQL", "Python", "AI", "ML"],
         imageUrl: "https://via.placeholder.com/300x200"
     },
     {
