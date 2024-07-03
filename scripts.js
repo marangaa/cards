@@ -12,7 +12,15 @@ const cardData = [
         description: "Dedicated to creating intuitive and user-friendly interfaces.",
         interests: ["User Research", "Wireframing", "Prototyping", "Accessibility"],
         imageUrl: "https://via.placeholder.com/300x200"
+    },
+    {
+        name: "peter parker",
+        title: "Web Developer",
+        description: "Passionate about creating beautiful and functional web applications.",
+        interests: ["React", "TypeScript", "UI/UX", "Open Source"],
+        imageUrl: "https://via.placeholder.com/300x200"
     }
+        
 ];
 
 function createCard(data) {
